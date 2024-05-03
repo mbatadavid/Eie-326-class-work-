@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EIE 326</title>
+    <style>
+        body{
+            background-color: rgb(4, 47, 74);
+        }
+        h1{
+            font-size: xx-large;
+        }
+        p{
+            font-weight: 800;
+        }
+    </style>
+</head>
+<body>
+    <div style="margin-left: 300px;">
+        <h1> Mbata David</h1>
+        <a href="">mbata.david@stu.cu.edu.ng</a>
+        <br>
+        <p>Attends Covenant </p>
+
+    </div>
+    
+    
+</body>
+</html>
